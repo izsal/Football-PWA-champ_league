@@ -1,0 +1,15 @@
+{
+    "name": "Football Data PWA - Izsal",
+    "short_name": "Football",
+    "description": "App Football PWA - Izsal Qurlinas Afandi",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#a6a6a4",
+    "theme_color": "#a6a6a4",
+    "icons": [{
+        "src": "images/icon-512.jpg",
+        "sizes": "512x512",
+        "type": "image/jpg"
+    }],
+    "gcm_sender_id": "1019719802688"
+}
